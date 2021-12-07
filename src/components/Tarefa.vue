@@ -8,7 +8,7 @@
         <Cronometro :tempoEmSegundos="tarefa.duracaoEmSegundos" />
       </div>
     </div>
-  <Box/>
+  </Box>
 </template>
 
 <script lang="ts">
